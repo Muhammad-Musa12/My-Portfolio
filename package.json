@@ -1,0 +1,12 @@
+{
+  "name": "secure-ai-portfolio",
+  "version": "1.0.0",
+  "description": "Secure proxy for the Gemini API.",
+  "main": "api/chat.js",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  },
+  "scripts": {
+    "start": "echo 'Run this on Vercel/Netlify'"
+  }
+}
